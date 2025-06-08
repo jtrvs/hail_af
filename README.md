@@ -1,5 +1,5 @@
 ## Import env:
-`conda env create -f environment.yml`
+`conda env create -f hail_env.yml`
 
 ## Set config path:
 ```
@@ -11,3 +11,5 @@ AF_PATH = '/vcfs/genomes/cache/af.tsv' # кеш частот
 ```
 
 ## Run cells step by step
+
+## Use haplogrep_run.sh for population analysis
